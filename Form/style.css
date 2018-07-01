@@ -1,0 +1,50 @@
+form {
+    margin: 0 auto;
+    width: 600px;
+    padding: 5em;
+    border:  2px solid black;
+    border-radius: 20px;
+    text-align: center;
+    background-color: skyblue;
+}
+
+fieldset {
+    width: 300px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    border: 3px solid black;
+}
+
+ul {
+    list-style: none;
+}
+
+
+
+input {
+    font: 1em sans-serif;
+    width: 0 auto;
+    box-sizing: border-box;
+    border: 2px solid black;
+    background-color: #FFD133;
+}
+
+
+
+button {
+    margin: 0 auto;
+}
+
+label span {
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+}
+input[type=checkbox], input[type=radio] {
+    width: auto;
+    border: none;
+}
+
+select {
+	background-color: #FF9C33;
+}
