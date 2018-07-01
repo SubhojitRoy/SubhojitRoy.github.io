@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ult-8">
+<title>My profile</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<div id="profile">
+		<h1 id="name">Subhojit Roy</h1>
+		<img src="images/me.JPG" alt="Subhojit Roy" width="550" height="800">
+		<p>At my profile, you can find this:</p>
+		<ul> 
+      		<li><a href="https://www.facebook.com/dreamboy.subho.58/about?lst=100003152595915%3A100003152595915%3A1526757610" target="-blank">About me</a></li>
+      		<li><a href="https://www.facebook.com/dreamboy.subho.58/photos?lst=100003152595915%3A100003152595915%3A1526757610&source_ref=pb_friends_tl" target="-blank">Pictures</a></li>
+      		<li><a href="https://www.facebook.com/dreamboy.subho.58/friends?lst=100003152595915%3A100003152595915%3A1526757610&source_ref=pb_friends_tl" target="-blank">Friends</a></li>
+    	</ul>
+    	<p>My profile name is <strong>"<a href="https://www.facebook.com/dreamboy.subho.58" target="-blank">Subhojit Roy</a>"</strong>.Let's be friends.</p>
+    	<p> This is my profile. Welcome to my profile. Now you can contract with me.<br>Email: subhojitroy993@gmail.com</p>
+    	<div class="about">
+    		<h1>About Me</h1>
+    		<p>Hey. I am Subhojit Roy. I live in Dhaka.I am a student of Stamford University.My department name is Computer Science and Engineering. I am not in competition with anyone but myself. My goal is to learn and improve myself continuously....
+			<br>I LOVE PEACE....
+			<br>I love my mom and dad so much.
+			<br>*If you don't know me, get to know me! Don't know something about me, ask me! But don't judge me from other people, because I may just surprise you!!*</p>
+		</div>
+		<br>
+		<div class="quotes">
+			<h2>Favourite Quotes</h2>
+			<p>"Know Thyself"
+			<br>"Imagination is more important than knowledge."
+			<br>"Never hate the time when you failed, those were the times where you showed the world that failures didn't define you but made you stronger."
+			<br>"Life isn’t about finding yourself. Life is about creating yourself."
+			<br>"No Matter how well you behave with people around you, They will love you according to their Need and Mood.."
+			<br>"The greatest pleasure in life is doing what others say you cannot do and it's kind of fun to do the impossible."
+			<br>“There’s no next time. It’s now or never.”
+			<br>"**Success is when your signature turns into autograph.**"</p>
+		</div>
+    	<h1>Picture</h1>
+    	<img src="images/1.JPG" alt="Subhojit Roy" width="350" height="500">
+    	<img src="images/3.JPG" alt="Subhojit Roy" width="370" height="500">
+    	<img src="images/4.JPG" alt="Subhojit Roy" width="350" height="500">
+    	<img src="images/2.JPG" alt="Subhojit Roy" width="500" height="500">
+    	
+	</div>
+	<h1>Friends</h1>
+    <ol>
+    	<li><a href="https://www.facebook.com/profile.php?id=100009285036553&ref=br_rs" target="-blank">Miss Expert</a></li>
+    	<li><a href="https://www.facebook.com/samina.yeasmin.ashru" target="-blank">Samina Yeasmin Ashru</a></li>
+    	<li><a href="https://www.facebook.com/farha.rim.37" target="-blank">Umme Farhatun Nahar</a></li>
+		<li><a href="https://www.facebook.com/sairaj.farazy1" target="-blank">Sairaj Farazi</a></li>
+	</ol>
+</body> 
+</html>
