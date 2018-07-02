@@ -1,0 +1,61 @@
+#name {
+	color: crimson;
+	font-size: 70px;
+}
+body, h1{
+	text-align: center;
+}
+#profile {
+	font-size: 20px;
+}
+.about {
+	margin: 5;
+	border: 2px solid black;
+	border-radius: 15px;
+	padding: 0px 50px;
+
+}
+.quotes {
+	border: 2px solid black;
+	border-radius: 15px;
+	padding: 0px 70px;
+}
+ul {
+  text-align: center;
+  list-style: inside;
+  padding: 0px 40px 0px 0px;
+}
+ol {
+	font-size: 20px;
+  	text-align: center;
+  list-style: inside;
+  padding: 0px 25px 0px 0px;
+}
+
+.skill {
+	font-size: 30px;
+}
+
+.skills {
+	text-align: center;
+}
+
+.c {
+		padding: 0px 5px 0px 0px
+}
+
+.p {
+		padding: 0px 23px 0px 0px
+}
+
+.j {
+		padding: 0px 44px 0px 0px
+}
+
+.ms {
+		padding: 0px 0px 0px 1px
+}
+
+.m {
+		padding: 0px 10px 0px 0px;
+}
